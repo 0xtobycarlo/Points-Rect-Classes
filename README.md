@@ -16,8 +16,8 @@ Rect  -- two points, forming a rectangle
     distance_to  -- calculate distance between two points
     as_tuple  -- construct tuple (x,y)
     clone  -- construct a duplicate
-    integerise  -- convert x & y to integers
-    floatise  -- convert x & y to floats
+    integerise / integerize  -- convert x & y to integers
+    floatise / floatize  -- convert x & y to floats
     move_to  -- reset x & y
     slide  -- move (in place) +dx, +dy, as spec'd by point
     slide_xy  -- move (in place) +dx, +dy
