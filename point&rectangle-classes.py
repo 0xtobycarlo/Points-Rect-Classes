@@ -1,6 +1,5 @@
 import math
 
-
 class Point:
 
     def __init__(self, x=0.0, y=0.0):
@@ -82,7 +81,6 @@ class Point:
         result.rotate(theta)
         result.slide(p.x, p.y)
         return result
-
 
 class Rect:
 
