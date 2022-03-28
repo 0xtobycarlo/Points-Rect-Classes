@@ -1,7 +1,6 @@
-# Points-Rect-Classes
+# Points & Rectangle Classes
 Points &amp; rectangles classes in Python.
 
-Point and Rectangle classes.
 
 Point  -- point with (x,y) coordinates
 Rect  -- two points, forming a rectangle
